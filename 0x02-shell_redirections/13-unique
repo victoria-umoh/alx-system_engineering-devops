@@ -1,5 +1,3 @@
 #!/bin
-sort | uniq -e
-:wq
-
+sort | uniq -u
 
